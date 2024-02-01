@@ -5,7 +5,6 @@ export default defineConfig({
   base: "./",
   plugins: [],
   build: {
-    target: ["chrome96", "safari15"],
     minify: "terser",
     lib: {
       name: pkg.name,

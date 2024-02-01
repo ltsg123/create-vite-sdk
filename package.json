@@ -1,10 +1,10 @@
 {
   "name": "create-vite-sdk",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "type": "module",
+  "license": "MIT",
   "author": {
-    "name": "xsm",
-    "email": "webrtc@shengwang.cn"
+    "name": "xsm"
   },
   "bin": {
     "create-vite-sdk": "index.js",
