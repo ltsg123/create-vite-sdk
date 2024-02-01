@@ -4,12 +4,6 @@
 
 > **Compatibility Note:** Vite requires [Node.js](https://nodejs.org/en/) version 18+, 20+. However, some templates require a higher Node.js version to work, please upgrade if your package manager warns about it.
 
-With NPM:
-
-```
-$ npm create vite-sdk@latest
-```
-
 With Yarn:
 
 ```
@@ -20,6 +14,12 @@ With PNPM:
 
 ```
 $ pnpm create vite-sdk
+```
+
+With NPM:
+
+```
+$ npm create vite-sdk@latest
 ```
 
 With Bun:
