@@ -16,8 +16,5 @@
     "tsx": "^3.12.7",
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
-  },
-  "dependencies": {
-    "@agora-js/extension": "^0.0.2"
   }
 }

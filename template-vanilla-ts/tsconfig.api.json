@@ -30,5 +30,5 @@
     "useUnknownInCatchVariables": false,
     "typeRoots": ["node_modules/@types"]
   },
-  "include": ["src/**/*", "extension.d.ts"]
+  "include": ["src/**/*"]
 }

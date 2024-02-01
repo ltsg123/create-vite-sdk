@@ -1,19 +1,28 @@
 {
-  "name": "create-agora-extension",
-  "version": "0.0.3",
+  "name": "create-vite-sdk",
+  "version": "0.0.0",
   "type": "module",
   "author": {
     "name": "xsm",
     "email": "webrtc@shengwang.cn"
   },
   "bin": {
-    "create-agora-extension": "index.js",
-    "cae": "index.js"
+    "create-vite-sdk": "index.js",
+    "cvs": "index.js"
   },
   "files": [
     "index.js",
     "template-*",
     "dist"
+  ],
+  "keywords": [
+    "vite",
+    "sdk",
+    "create-vite-sdk",
+    "vanilla",
+    "typescript",
+    "build-tools",
+    "types"
   ],
   "scripts": {
     "dev": "unbuild --stub",

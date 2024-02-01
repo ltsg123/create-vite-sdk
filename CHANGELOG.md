@@ -1,5 +1,5 @@
-# 0.0.3 (2024-01-17)
+# 0.0.1
 
-### Features
+### Init
 
-init create-agora-extension-app with template-video-ts
+init create-vite-sdk
